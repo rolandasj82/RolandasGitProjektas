@@ -4,3 +4,4 @@ print(txt)
 for r in txt:
     print(r,end=" ")
 print()
+print("Nuskaitymas po vieną raide baigtas! \nPabaiga")
